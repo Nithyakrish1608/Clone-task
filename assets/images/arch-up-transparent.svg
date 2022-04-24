@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="546px" viewBox="0 0 1440 546" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arch-up-transparent</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="3.061617e-15%" id="linearGradient-1">
+            <stop stop-color="#D5D3F0" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#23205E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.08">
+        <g id="arch-up-transparent" fill="url(#linearGradient-1)">
+            <path d="M0,137.123 C239.534,45.708 479.367,0 719.5,0 C959.633,0 1199.8,45.708 1440,137.123 L1440,546 L0,546 L0,137.123 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

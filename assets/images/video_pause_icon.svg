@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+    <defs>
+        <linearGradient id="prefix__a" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFE33C"/>
+            <stop offset="100%" stop-color="#FFC21C"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="matrix(-1 0 0 1 32 0)">
+        <circle cx="16" cy="16" r="16" fill="#FFC21C" opacity=".08"/>
+        <path fill="url(#prefix__a)" fill-rule="nonzero" d="M21 8L9 16 21 24z"/>
+    </g>
+</svg>

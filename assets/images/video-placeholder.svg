@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="872" height="872" viewBox="0 0 872 872">
+    <defs>
+        <linearGradient id="a" x1="76.369%" x2="27.27%" y1="8.483%" y2="93.447%">
+            <stop offset="0%" stop-color="#FF60AE"/>
+            <stop offset="100%" stop-color="#FF1157"/>
+        </linearGradient>
+        <linearGradient id="b" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FFE33C"/>
+            <stop offset="100%" stop-color="#FFC21C"/>
+        </linearGradient>
+        <linearGradient id="c" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#736BD8"/>
+            <stop offset="100%" stop-color="#3F39AF"/>
+        </linearGradient>
+        <linearGradient id="d" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#29EBB1"/>
+            <stop offset="100%" stop-color="#12D37A"/>
+        </linearGradient>
+        <linearGradient id="e" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FF2790" stop-opacity=".775"/>
+            <stop offset="100%" stop-color="#FF1157" stop-opacity=".775"/>
+        </linearGradient>
+        <linearGradient id="f" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FF2790"/>
+            <stop offset="100%" stop-color="#FF1157"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(1 1)">
+        <g transform="translate(278.4 272.8)">
+            <circle cx="156.4" cy="161.2" r="150" fill="#3F39AF" opacity=".3"/>
+            <circle cx="70.8" cy="41.2" r="2" fill="#FF1157"/>
+            <circle cx="156.8" cy="160.8" r="101.6" fill="#3F39AF" opacity=".5"/>
+            <circle cx="58" cy="153.2" r="2" fill="#3F39AF"/>
+            <circle cx="156.8" cy="160.8" r="40.8" fill="url(#a)"/>
+            <circle cx="234.8" cy="33.2" r="14.8" fill="url(#b)"/>
+            <circle cx="229.6" cy="90.4" r="2.4" fill="#FFC21C"/>
+            <circle cx="143.2" cy="13.6" r="13.6" fill="url(#c)"/>
+            <circle cx="85.2" cy="93.2" r="14.8" fill="#FF1157" fill-opacity=".166"/>
+            <circle cx="10" cy="169.2" r="10" fill="url(#d)"/>
+            <circle cx="51.6" cy="272.4" r="14.8" fill="url(#e)"/>
+            <circle cx="132.8" cy="260.8" r="12" fill="url(#b)"/>
+            <circle cx="228" cy="235.2" r="16" fill="#3F39AF"/>
+            <circle cx="304.4" cy="139.6" r="9.2" fill="url(#f)"/>
+            <circle cx="212.4" cy="302.8" r="2" fill="#00B8D9"/>
+        </g>
+        <path fill="#FFF" d="M426.4 418.209v29.925a2.246 2.246 0 0 0 3.646 1.756l18.933-15.112a2.246 2.246 0 0 0-.017-3.523L430.03 416.44a2.246 2.246 0 0 0-3.629 1.769z"/>
+        <circle cx="435.2" cy="435.2" r="216" stroke="#ECECEC" stroke-width=".8" opacity=".54"/>
+        <circle cx="435.2" cy="435.2" r="306.4" stroke="#DADADA" stroke-width=".8" opacity=".296"/>
+        <circle cx="435.2" cy="435.2" r="435.2" stroke="#979797" stroke-width=".8" opacity=".12"/>
+    </g>
+</svg>
